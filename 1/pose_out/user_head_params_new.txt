@@ -1,0 +1,16 @@
+{
+  "shoulder_width": 644.0051311008497,
+  "nose_to_shoulder_center": 360.3485528427459,
+  "crop_dimensions": [
+    644,
+    841
+  ],
+  "adjusted_origin": [
+    350,
+    0
+  ],
+  "nose_position_in_crop": [
+    322.6454311390821,
+    482.0177841433906
+  ]
+}
